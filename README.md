@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vidyapraveen08
 - 👀 I’m interested in singing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on programming and data analysis.
 - 📫 How to reach me - call
 
